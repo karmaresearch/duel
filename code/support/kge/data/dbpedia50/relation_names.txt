@@ -1,0 +1,654 @@
+director	1	director
+producer	1	producer
+writer	1	writer
+distributor	1	distributor
+country	1	country
+language	1	language
+author	1	author
+illustrator	1	illustrator
+literaryGenre	2	literary genre
+publisher	1	publisher
+doctoralAdvisor	2	doctoral advisor
+doctoralStudent	2	doctoral student
+birthPlace	2	birth place
+almaMater	2	alma mater
+field	1	field
+knownFor	2	known for
+award	1	award
+occupation	1	occupation
+spouse	1	spouse
+presenter	1	presenter
+region	1	region
+era	1	era
+philosophicalSchool	2	philosophical school
+mainInterest	2	main interest
+notableIdea	2	notable idea
+influencedBy	2	influenced by
+capital	1	capital
+largestCity	2	largest city
+headquarter	1	headquarter
+deathPlace	2	death place
+restingPlace	2	resting place
+party	1	party
+child	1	child
+religion	1	religion
+militaryRank	2	military rank
+battle	1	battle
+successor	1	successor
+predecessor	1	predecessor
+termPeriod	2	term period
+soundRecording	2	sound recording
+academicDiscipline	2	academic discipline
+anthem	1	anthem
+governmentType	2	government type
+currency	1	currency
+officialLanguage	2	official language
+ethnicGroup	2	ethnic group
+leader	1	leader
+timeZone	2	time zone
+influenced	1	influenced
+kingdom	1	kingdom
+phylum	1	phylum
+class	1	class
+order	1	order
+family	1	family
+binomialAuthority	2	binomial authority
+residence	1	residence
+notableWork	2	notable work
+ethnicity	1	ethnicity
+citizenship	1	citizenship
+composer	1	composer
+type	1	type
+parent	1	parent
+developer	1	developer
+genre	1	genre
+computingPlatform	2	computing platform
+designer	1	designer
+cpu	1	cpu
+academicAdvisor	2	academic advisor
+place	1	place
+territory	1	territory
+commander	1	commander
+militaryBranch	2	military branch
+militaryUnit	2	military unit
+bandMember	2	band member
+hometown	1	hometown
+recordLabel	2	record label
+location	1	location
+foundationPlace	2	foundation place
+foundedBy	2	founded by
+locationCity	2	location city
+keyPerson	2	key person
+industry	1	industry
+product	1	product
+owner	1	owner
+owningCompany	2	owning company
+parentCompany	2	parent company
+division	1	division
+subsidiary	1	subsidiary
+mediaType	2	media type
+outflow	1	outflow
+spokenIn	2	spoken in
+languageFamily	2	language family
+leaderName	2	leader name
+leaderParty	2	leader party
+isPartOf	3	is part of
+deathCause	2	death cause
+training	1	training
+movement	1	movement
+governingBody	2	governing body
+part	1	part
+relative	1	relative
+league	1	league
+service	1	service
+chancellor	1	chancellor
+president	1	president
+map	1	map
+board	1	board
+nationality	1	nationality
+manufacturer	1	manufacturer
+operatingSystem	2	operating system
+formerBandMember	3	former band member
+associatedBand	2	associated band
+associatedMusicalArtist	3	associated musical artist
+personFunction	2	person function
+creator	1	creator
+portrayer	1	portrayer
+lastAppearance	2	last appearance
+sportGoverningBody	3	sport governing body
+gender	1	gender
+veneratedIn	2	venerated in
+city	1	city
+daylightSavingTimeZone	4	daylight saving time zone
+similar	1	similar
+profession	1	profession
+institution	1	institution
+genus	1	genus
+partner	1	partner
+monarch	1	monarch
+debutTeam	2	debut team
+district	1	district
+mayor	1	mayor
+sourceCountry	2	source country
+riverMouth	2	river mouth
+origin	1	origin
+architecturalStyle	2	architectural style
+mouthMountain	2	mouth mountain
+mouthPlace	2	mouth place
+internationalAffiliation	2	international affiliation
+youthWing	2	youth wing
+species	1	species
+series	1	series
+canonizedBy	2	canonized by
+programmingLanguage	2	programming language
+license	1	license
+federalState	2	federal state
+stateOfOrigin	3	state of origin
+populationPlace	2	population place
+related	1	related
+placeOfBurial	3	place of burial
+beatifiedPlace	2	beatified place
+beatifiedBy	2	beatified by
+canonizedPlace	2	canonized place
+majorShrine	2	major shrine
+otherParty	2	other party
+vicePresident	2	vice president
+source	1	source
+sourceMountain	2	source mountain
+sourcePlace	2	source place
+sourceRegion	2	source region
+mouthCountry	2	mouth country
+leftTributary	2	left tributary
+rightTributary	2	right tributary
+education	1	education
+notableStudent	2	notable student
+archipelago	1	archipelago
+majorIsland	2	major island
+lieutenant	1	lieutenant
+position	1	position
+state	1	state
+campus	1	campus
+athletics	1	athletics
+affiliation	1	affiliation
+leaderFunction	2	leader function
+person	1	person
+ideology	1	ideology
+starring	1	starring
+executiveProducer	2	executive producer
+company	1	company
+channel	1	channel
+format	1	format
+domain	1	domain
+coverArtist	2	cover artist
+subsequentWork	2	subsequent work
+branchFrom	2	branch from
+branchTo	2	branch to
+supplies	1	supplies
+vein	1	vein
+precursor	1	precursor
+employer	1	employer
+significantBuilding	2	significant building
+significantDesign	2	significant design
+manager	1	manager
+coach	1	coach
+instrument	1	instrument
+deputy	1	deputy
+translator	1	translator
+ground	1	ground
+chairman	1	chairman
+season	1	season
+team	1	team
+currentMember	2	current member
+languageRegulator	2	language regulator
+artery	1	artery
+nerve	1	nerve
+lymph	1	lymph
+operator	1	operator
+network	1	network
+administrativeDistrict	2	administrative district
+firstDriver	2	first driver
+regionServed	2	region served
+hubAirport	2	hub airport
+lounge	1	lounge
+alliance	1	alliance
+equipment	1	equipment
+stylisticOrigin	2	stylistic origin
+musicSubgenre	2	music subgenre
+colour	1	colour
+secretaryGeneral	2	secretary general
+nationalAffiliation	2	national affiliation
+primeMinister	2	prime minister
+canton	1	canton
+twinTown	2	twin town
+highestPlace	2	highest place
+lowestPlace	2	lowest place
+neighboringMunicipality	2	neighboring municipality
+architect	1	architect
+billed	1	billed
+discoverer	1	discoverer
+province	1	province
+locationCountry	2	location country
+principalArea	2	principal area
+ceremonialCounty	2	ceremonial county
+councilArea	2	council area
+lieutenancyArea	2	lieutenancy area
+department	1	department
+editor	1	editor
+previousWork	2	previous work
+commandStructure	2	command structure
+secondCommander	2	second commander
+thirdCommander	2	third commander
+fourthCommander	2	fourth commander
+musicBy	2	music by
+lyrics	1	lyrics
+basedOn	2	based on
+relation	1	relation
+nonFictionSubject	3	non fiction subject
+broadcastArea	2	broadcast area
+premierePlace	2	premiere place
+originalLanguage	2	original language
+rocketFunction	2	rocket function
+usedInWar	3	used in war
+derivative	1	derivative
+musicFusionGenre	3	music fusion genre
+musicComposer	2	music composer
+cinematography	1	cinematography
+editing	1	editing
+artist	1	artist
+recordedIn	2	recorded in
+openingTheme	2	opening theme
+inflow	1	inflow
+island	1	island
+nearestCity	2	nearest city
+mergedIntoParty	3	merged into party
+europeanAffiliation	2	european affiliation
+europeanParliamentGroup	3	european parliament group
+highestRegion	2	highest region
+capitalMountain	2	capital mountain
+capitalPlace	2	capital place
+capitalRegion	2	capital region
+governmentRegion	2	government region
+governmentCountry	2	government country
+border	1	border
+governor	1	governor
+voice	1	voice
+regionalLanguage	2	regional language
+category	1	category
+garrison	1	garrison
+notableCommander	2	notable commander
+isPartOfMilitaryConflict	5	is part of military conflict
+politicalPartyOfLeader	4	political party of leader
+politicalPartyInLegislature	4	political party in legislature
+draftTeam	2	draft team
+whaDraftTeam	3	wha draft team
+formerTeam	2	former team
+firstLeader	2	first leader
+secondLeader	2	second leader
+associate	1	associate
+destination	1	destination
+ingredient	1	ingredient
+governorGeneral	2	governor general
+arrondissement	1	arrondissement
+careerStation	2	career station
+managerClub	2	manager club
+mainOrgan	2	main organ
+narrator	1	narrator
+pictureFormat	2	picture format
+sisterStation	2	sister station
+programmeFormat	2	programme format
+magazine	1	magazine
+founder	1	founder
+broadcastNetwork	2	broadcast network
+routeStart	2	route start
+routeEnd	2	route end
+routeJunction	2	route junction
+formerCoach	2	former coach
+launchSite	2	launch site
+musicalArtist	2	musical artist
+musicalBand	2	musical band
+locatedInArea	3	located in area
+patron	1	patron
+aircraftFighter	2	aircraft fighter
+aircraftTransport	2	aircraft transport
+builder	1	builder
+largestSettlement	2	largest settlement
+splitFromParty	3	split from party
+routeStartLocation	3	route start location
+routeEndLocation	3	route end location
+typeOfElectrification	3	type of electrification
+selection	1	selection
+jurisdiction	1	jurisdiction
+parentOrganisation	2	parent organisation
+connotation	1	connotation
+variantOf	2	variant of
+provost	1	provost
+mouthRegion	2	mouth region
+gameArtist	2	game artist
+tenant	1	tenant
+hasVariant	2	has variant
+creatorOfDish	3	creator of dish
+operatedBy	2	operated by
+gameEngine	2	game engine
+crosses	1	crosses
+maintainedBy	2	maintained by
+management	1	management
+usingCountry	2	using country
+sport	1	sport
+generalManager	2	general manager
+chairperson	1	chairperson
+county	1	county
+municipality	1	municipality
+isPartOfAnatomicalStructure	5	is part of anatomical structure
+twinCountry	2	twin country
+significantProject	2	significant project
+stadium	1	stadium
+principalEngineer	2	principal engineer
+engineer	1	engineer
+riverBranchOf	3	river branch of
+sourceConfluenceMountain	3	source confluence mountain
+sourceConfluencePlace	3	source confluence place
+aircraftInterceptor	2	aircraft interceptor
+album	1	album
+endingTheme	2	ending theme
+saint	1	saint
+march	1	march
+childOrganisation	2	child organisation
+assembly	1	assembly
+bodyStyle	2	body style
+engine	1	engine
+agency	1	agency
+biome	1	biome
+house	1	house
+river	1	river
+lake	1	lake
+unitaryAuthority	2	unitary authority
+powerType	2	power type
+countySeat	2	county seat
+owningOrganisation	2	owning organisation
+firstRace	2	first race
+firstWin	2	first win
+lastWin	2	last win
+lastRace	2	last race
+appointer	1	appointer
+borough	1	borough
+highschool	1	highschool
+college	1	college
+mountainRange	2	mountain range
+firstAscentPerson	3	first ascent person
+formerPartner	2	former partner
+formerChoreographer	2	former choreographer
+highestState	2	highest state
+startPoint	2	start point
+endPoint	2	end point
+head	1	head
+lowestMountain	2	lowest mountain
+government	1	government
+designCompany	2	design company
+areaOfSearch	3	area of search
+parentMountainPeak	3	parent mountain peak
+wineRegion	2	wine region
+opponent	1	opponent
+sourceConfluence	2	source confluence
+sourceConfluenceRegion	3	source confluence region
+homeport	1	homeport
+viceChancellor	2	vice chancellor
+capitalCountry	2	capital country
+highestMountain	2	highest mountain
+layout	1	layout
+automobilePlatform	2	automobile platform
+relatedMeanOfTransportation	4	related mean of transportation
+sales	1	sales
+spokesperson	1	spokesperson
+frazioni	1	frazioni
+sourceConfluenceState	3	source confluence state
+sisterCollege	2	sister college
+aircraftAttack	2	aircraft attack
+aircraftBomber	2	aircraft bomber
+aircraftElectronic	2	aircraft electronic
+aircraftHelicopter	2	aircraft helicopter
+aircraftPatrol	2	aircraft patrol
+aircraftRecon	2	aircraft recon
+aircraftTrainer	2	aircraft trainer
+targetAirport	2	target airport
+aircraftHelicopterMultirole	3	aircraft helicopter multirole
+creativeDirector	2	creative director
+rival	1	rival
+curator	1	curator
+namedAfter	2	named after
+firstFlight	2	first flight
+lastFlight	2	last flight
+picture	1	picture
+animal	1	animal
+chiefEditor	2	chief editor
+rector	1	rector
+superintendent	1	superintendent
+summerAppearances	2	summer appearances
+winterAppearances	2	winter appearances
+structuralSystem	2	structural system
+televisionSeries	2	television series
+previousEvent	2	previous event
+followingEvent	2	following event
+countryOrigin	2	country origin
+dean	1	dean
+museum	1	museum
+bodyDiscovered	2	body discovered
+previousEditor	2	previous editor
+innervates	1	innervates
+component	1	component
+intercommunality	1	intercommunality
+hybrid	1	hybrid
+sisterNewspaper	2	sister newspaper
+event	1	event
+nextEvent	2	next event
+principal	1	principal
+goldMedalist	2	gold medalist
+silverMedalist	2	silver medalist
+bronzeMedalist	2	bronze medalist
+discipline	1	discipline
+administrativeCollectivity	2	administrative collectivity
+guest	1	guest
+homeArena	2	home arena
+winsAtAsia	3	wins at asia
+winsAtAus	3	wins at aus
+winsInEurope	3	wins in europe
+winsAtJapan	3	wins at japan
+winsAtOtherTournaments	4	wins at other tournaments
+winsAtPGA	5	wins at p g a
+mythology	1	mythology
+primaryFuelType	3	primary fuel type
+governmentMountain	2	government mountain
+governmentPlace	2	government place
+hasJunctionWith	3	has junction with
+animator	1	animator
+compiler	1	compiler
+royalAnthem	2	royal anthem
+distributingLabel	2	distributing label
+distributingCompany	2	distributing company
+chairLabel	2	chair label
+localAuthority	2	local authority
+storyEditor	2	story editor
+associationOfLocalGovernment	4	association of local government
+congressionalDistrict	2	congressional district
+ceo	1	ceo
+race	1	race
+trainer	1	trainer
+sire	1	sire
+dam	1	dam
+grandsire	1	grandsire
+damsire	1	damsire
+breeder	1	breeder
+railwayRollingStock	3	railway rolling stock
+currentPartner	2	current partner
+honours	1	honours
+growingGrape	2	growing grape
+homeStadium	2	home stadium
+raceHorse	2	race horse
+grades	1	grades
+school	1	school
+championInDoubleMale	4	champion in double male
+championInSingleMale	4	champion in single male
+championInDoubleFemale	4	champion in double female
+championInSingleFemale	4	champion in single female
+championInMixedDouble	4	champion in mixed double
+clubsRecordGoalscorer	3	clubs record goalscorer
+metropolitanBorough	2	metropolitan borough
+railwayLineUsingTunnel	4	railway line using tunnel
+formerBroadcastNetwork	3	former broadcast network
+servingRailwayLine	3	serving railway line
+constructionMaterial	2	construction material
+photographer	1	photographer
+plant	1	plant
+associatedAct	2	associated act
+nrhpType	2	nrhp type
+orogeny	1	orogeny
+riverBranch	2	river branch
+club	1	club
+taoiseach	1	taoiseach
+originalStartPoint	3	original start point
+champion	1	champion
+university	1	university
+schoolBoard	2	school board
+voiceType	2	voice type
+currentProduction	2	current production
+notableWine	2	notable wine
+aircraftHelicopterAttack	3	aircraft helicopter attack
+religiousHead	2	religious head
+damage	1	damage
+showJudge	2	show judge
+binomial	1	binomial
+sportCountry	2	sport country
+isPartOfWineRegion	5	is part of wine region
+meetingRoad	2	meeting road
+blockAlloy	2	block alloy
+headAlloy	2	head alloy
+oilSystem	2	oil system
+coolingSystem	2	cooling system
+drainsFrom	2	drains from
+drainsTo	2	drains to
+winsAtChampionships	3	wins at championships
+winsAtProTournaments	4	wins at pro tournaments
+winsAtMajors	3	wins at majors
+winsAtNWIDE	7	wins at n w i d e
+rebuilder	1	rebuilder
+highwaySystem	2	highway system
+authority	1	authority
+managementMountain	2	management mountain
+managementPlace	2	management place
+legalForm	2	legal form
+teachingStaff	2	teaching staff
+committeeInLegislature	3	committee in legislature
+originalEndPoint	3	original end point
+jointCommunity	2	joint community
+winsAtLPGA	6	wins at l p g a
+chain	1	chain
+engineType	2	engine type
+previousInfrastructure	2	previous infrastructure
+subsequentInfrastructure	2	subsequent infrastructure
+denomination	1	denomination
+schoolPatron	2	school patron
+ruralMunicipality	2	rural municipality
+sheading	1	sheading
+aircraftHelicopterTransport	3	aircraft helicopter transport
+aircraftHelicopterUtility	3	aircraft helicopter utility
+prospectLeague	2	prospect league
+comparable	1	comparable
+officerInCharge	3	officer in charge
+parish	1	parish
+beltwayCity	2	beltway city
+firstPopularVote	3	first popular vote
+secondPopularVote	3	second popular vote
+promotion	1	promotion
+brand	1	brand
+building	1	building
+availableSmartCard	3	available smart card
+nobelLaureates	2	nobel laureates
+choreographer	1	choreographer
+lowestRegion	2	lowest region
+incumbent	1	incumbent
+nominee	1	nominee
+vicePrimeMinister	3	vice prime minister
+aircraftHelicopterObservation	3	aircraft helicopter observation
+winsAtChallenges	3	wins at challenges
+pastMember	2	past member
+openingFilm	2	opening film
+closingFilm	2	closing film
+poleDriver	2	pole driver
+poleDriverTeam	3	pole driver team
+fastestDriver	2	fastest driver
+fastestDriverTeam	3	fastest driver team
+firstDriverTeam	3	first driver team
+secondDriver	2	second driver
+secondTeam	2	second team
+thirdDriver	2	third driver
+thirdDriverCountry	3	third driver country
+thirdTeam	2	third team
+fuelSystem	2	fuel system
+firstDriverCountry	3	first driver country
+prospectTeam	2	prospect team
+runningMate	2	running mate
+vicePrincipal	2	vice principal
+lowestState	2	lowest state
+subregion	1	subregion
+varietals	1	varietals
+headChef	2	head chef
+trustee	1	trustee
+vehicle	1	vehicle
+flagBearer	2	flag bearer
+associateEditor	2	associate editor
+chaplain	1	chaplain
+firstWinner	2	first winner
+recentWinner	2	recent winner
+poleDriverCountry	3	pole driver country
+fastestDriverCountry	3	fastest driver country
+boiler	1	boiler
+waterwayThroughTunnel	3	waterway through tunnel
+secondDriverCountry	3	second driver country
+nationalTeam	2	national team
+coachedTeam	2	coached team
+managingEditor	2	managing editor
+jockey	1	jockey
+alumni	1	alumni
+assistantPrincipal	2	assistant principal
+associatedRocket	2	associated rocket
+firstLaunchRocket	3	first launch rocket
+lastLaunchRocket	3	last launch rocket
+winsAtLET	5	wins at l e t
+webcast	1	webcast
+chef	1	chef
+mostWins	2	most wins
+vicePrincipalLabel	3	vice principal label
+computingMedia	2	computing media
+wineProduced	2	wine produced
+boilerPressure	2	boiler pressure
+geneLocation	2	gene location
+orthologousGene	2	orthologous gene
+satScore	2	sat score
+actScore	2	act score
+religiousHeadLabel	3	religious head label
+pastor	1	pastor
+aircraftHelicopterCargo	3	aircraft helicopter cargo
+dfE	2	df e
+countryWithFirstSatellite	4	country with first satellite
+countryWithFirstAstronaut	4	country with first astronaut
+maidenFlightRocket	3	maiden flight rocket
+retiredRocket	2	retired rocket
+statisticLabel	2	statistic label
+leftChild	2	left child
+countryWithFirstSpaceflight	4	country with first spaceflight
+countryWithFirstSatelliteLaunched	5	country with first satellite launched
+organSystem	2	organ system
+organisation	1	organisation
+administrator	1	administrator
+formerHighschool	2	former highschool
+custodian	1	custodian
+film	1	film
+cultivatedVariety	2	cultivated variety
+fundedBy	2	funded by
+releaseLocation	2	release location
+numberOfClassrooms	3	number of classrooms
+projectParticipant	2	project participant
+addressInRoad	3	address in road
+rightChild	2	right child
+show	1	show
+projectCoordinator	2	project coordinator
+headteacher	1	headteacher

@@ -1,0 +1,9 @@
+torch==1.7.1
+pyyaml
+pandas
+argparse
+path
+ax-platform==0.1.19
+sqlalchemy
+torchviz
+numba==0.50.*
