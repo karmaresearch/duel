@@ -89,6 +89,11 @@ The folder support contains several files used by the various scripts:
 *   The script `embedding_model` abstracts the embedding models and provide a
     single interface to the rest of the program.
 
+## Datasets
+    The datasets used for the experiments presented in the ESWC22 paper are available at:
+
+    https://drive.google.com/drive/folders/1qp901AAKWEL3zhd6J8FVQm2TXWu4t95R
+
 ## Gold standard
 
 *   The jupyter notebook `annotate_gold_standard.ipynb` is used to manually
